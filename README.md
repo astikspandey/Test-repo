@@ -1,1 +1,1 @@
-<file testfile>
+<file test.py>
